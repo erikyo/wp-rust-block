@@ -1,0 +1,7 @@
+{
+	"name": "rust-block-build",
+	"version": "1.0.0",
+	"scripts": {
+		"pack": "cargo build && wasm-pack build"
+	}
+}

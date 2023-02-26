@@ -1,0 +1,12 @@
+{
+	"apiVersion": 2,
+	"name": "block/wasm-block",
+	"title": "wasm-block",
+	"description": "A wp-block boilerplate in typescript + wasm component",
+	"keywords": [ "wp-block", "boilerplate", "wasm" ],
+	"category": "media",
+	"viewScript": "file:./build/view-scripts.js",
+	"editorScript": "file:./build/rust-block.js",
+	"editorStyle": "file:./build/rust-block.css",
+	"style": "file:./build/style-rust-block.css"
+}
